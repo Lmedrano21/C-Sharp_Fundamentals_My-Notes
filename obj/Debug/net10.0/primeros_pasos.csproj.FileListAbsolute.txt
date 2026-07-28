@@ -1,0 +1,15 @@
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/bin/Debug/net10.0/primeros_pasos
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/bin/Debug/net10.0/primeros_pasos.deps.json
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/bin/Debug/net10.0/primeros_pasos.runtimeconfig.json
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/bin/Debug/net10.0/primeros_pasos.dll
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/bin/Debug/net10.0/primeros_pasos.pdb
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.GeneratedMSBuildEditorConfig.editorconfig
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.AssemblyInfoInputs.cache
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.AssemblyInfo.cs
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.csproj.CoreCompileInputs.cache
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.sourcelink.json
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.dll
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/refint/primeros_pasos.dll
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.pdb
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/primeros_pasos.genruntimeconfig.cache
+/home/Cohorte5/LUIS-CAYENA/RAIDER-PROJECTS/primeros_pasos/obj/Debug/net10.0/ref/primeros_pasos.dll
